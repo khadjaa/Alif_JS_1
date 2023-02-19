@@ -1,0 +1,7 @@
+[data-id="phone"] {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: 1fr, 2fr;
+    gap: 1px;
+    background-color: #ccc;
+}
